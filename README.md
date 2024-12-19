@@ -2,7 +2,7 @@
 
 헬스장 트레이너 일정 관리에 특화된 PC 친화적인 프로그램으로, 트레이너와 회원 간의 스케줄 관리를 쉽고 효율적으로 지원합니다.
 
-[Trainer](https://trainer.pinnet.co.kr)
+[홈페이지](https://trainer.pinnet.co.kr)
 
 
 ## 주요 기능
